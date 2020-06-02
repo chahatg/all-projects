@@ -1,0 +1,1 @@
+This is my output using Character Stream. Success.This is the Second line.
